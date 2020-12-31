@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LIS/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lession_6_7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LIS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Edit_levinstein" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
