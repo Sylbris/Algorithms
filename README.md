@@ -9,6 +9,8 @@ LCS - O(n*m)
 
 Airplane problem - O(n*m)
 
+Edit levinsteins distance - O(n*m)
+
 ## Overview
 
 All rights reserved to Ariel University
