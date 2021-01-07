@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LIS" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Edit_levinstein" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Cycle_detection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MaxMin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
