@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class MaxMax {
+public class MaxMax_recursive {
     public class Node{
         int num;
         Stack<Integer> st;
@@ -63,6 +63,7 @@ public class MaxMax {
             }
 
         }
+
 
     }
 
