@@ -9,7 +9,7 @@ public class LIS {
         int[] t=new int[size]; // help array
         t[0] = arr[0];
         int lis = 0;
-        for (int i = 0;i<size;i++) {
+        for (int i = 1;i<size;i++) {
             int index = binarySearchBetween(t, lis, arr[i]);//search each element
             t[index] = arr[i];
             if (index > lis) lis++;
