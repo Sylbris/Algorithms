@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Edit_levinstein" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Cycle_detection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MaxMin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/numbers_game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fibbonacci_sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Crystal_bal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

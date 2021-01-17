@@ -28,13 +28,15 @@ public class MaxMax_inductive {
         }
         head.prev=n;
         n.next=head;
+        //Finished creating the Cycled_Linked_List
         int size=arr.length;
         Node n1=head;
         Node n2=head.next;
         while(size>1){
             n2=n1.next;
             if(n1.num<n2.num) {
-                n2.st.push(n1.num);
+                n2.st.push(n1.num); //push it to the stack of n2
+                //delete the node from the doubly LinkedList
                 n1.prev.next=n2;
                 n2.prev=n1.prev;
                 n1=n2.next;
